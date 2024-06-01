@@ -1,1 +1,1 @@
-# Mega-Store-Powerbi-report
+# Mega-Store-Powerbi-Dashboard
